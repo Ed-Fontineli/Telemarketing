@@ -1,22 +1,27 @@
-# Título do projeto
+# Modelo de Análise de Dados de Telemarketing
 
-Um simples resumo do uso/propósito do projeto.
+	Modelo elaborado para demonstrar análise de dados com uma base de dados de Telemarketing. Dashboard feito em estilo de aplicativo para maior interação do usuário, onde se pode escolher quais dados cruzar e quais dados criar, trazendo assim mais informações de uma forma prática.
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+	Projeto escrito em linguagem Python, com as vizualizações send feitas no Stramlit. O código foi feito com o intuito de propor uma maior interação do usuário que pode selecionar informações como idade, emprego, possui ou não casa própria ou quaisquer outras variáveis contidas no banco de dados. 
+	A apresentação dos dados também foi escolhida para ser de forma interativa, sendo que se pode escolher o tipo de apresentação, e ainda podendo baixar os dados, gráficos, ou imagens resultantes para outras apresentações.
 
 ## Utilização
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+Bibliotecas necessárias:
+
+-XlsxWriter==3.1.2
+-seaborn==0.12.2
+-streamlit== 1.23.1
+-pandas==1.3.5
+-protobuf==3.20.1
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+	O programa ficará disponível em site posteriormente postado
 
 ### Executando o projeto
 
