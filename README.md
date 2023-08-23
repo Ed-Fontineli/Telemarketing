@@ -29,18 +29,14 @@ O programa ficará disponível em site posteriormente postado
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+Como rodar o projeto/programa: 
+Aplicativo pronto disponível no site: https://telemarketing-avcdawqtl6t7xk3r6xb4yg.streamlit.app
 
 ## Ajuda
 
 Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+
+Site app em primeira versão nao carregando alguns arquivos.
 
 ## Autores
 
@@ -52,10 +48,7 @@ Eduardo Fontineli
 
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
+0.1  Primeira versão: Site app simples
 
 
 ## Fontes de inspiração
