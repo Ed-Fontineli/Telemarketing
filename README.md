@@ -40,7 +40,6 @@ Site app em primeira versão nao carregando alguns arquivos.
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
 Eduardo Fontineli 
 
