@@ -34,12 +34,9 @@ Aplicativo pronto disponível no site: https://telemarketing-avcdawqtl6t7xk3r6xb
 
 ## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
-
 Site app em primeira versão nao carregando alguns arquivos.
 
 ## Autores
-
 
 Eduardo Fontineli 
 
